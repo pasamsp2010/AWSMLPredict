@@ -1,2 +1,2 @@
 print("Hello")
-print("Welcome    12345 to first program")
+print("Welcome   45 to first program")
